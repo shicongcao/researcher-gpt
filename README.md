@@ -11,6 +11,7 @@ Welcome to the Researcher-GPT repository! This project is an implementation of a
 
 ![prompt](https://github.com/shicongcao/researcher-gpt/assets/17108049/6e0c8e52-875b-46ab-b4f6-cb0d646fbea0)
 
+![text](https://github.com/shicongcao/researcher-gpt/assets/17108049/9bb41e7e-1cba-495f-9d81-45c535c2ea48)
 
 
 
