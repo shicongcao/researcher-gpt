@@ -1,6 +1,6 @@
 # Researcher-GPT: Local LLM Implementation with VectorBase from PDFs
 
-Welcome to the Researcher-GPT repository! This project is an implementation of a Local Language Model (LLM) that allows users to chat based on a VectorBase created from PDFs. It leverages the power of Langchain for prompt engineering and Grafio for a seamless user interface.
+This project is an implementation of a Local Language Model (LLM) that allows users to chat based on a VectorBase created from PDFs. It leverages the power of Langchain for prompt engineering and Grafio for a seamless user interface.
 
 ## Features
 
